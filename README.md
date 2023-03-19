@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dingjiachengcn
-- 👀 I’m interested in something new like ETH/ stock market and DBMS
-- 🌱 I’m currently RE-LEARNING MATH
-- 💞️ I’m looking to collaborate on FULL-STACK Project.
-- 📫 How to reach me 
+Hello, Jiacheng Ding, and a learner.
 
 e-mail address: dingjiachengcn@outlook.com
 
